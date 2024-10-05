@@ -1,0 +1,84 @@
+name: SkySoupEU
+version: 1.0
+authors: [ pesoxyz, benni ]
+main: eu.skysoup.skypvp.SkyPvP
+depends: [ "PlotSquared" ]
+
+commands:
+  clan:
+  location:
+  joinmsg:
+    aliases: [ joinmessage ]
+  quitmsg:
+    aliases: [ leavemsg, quitmessage, leavemessage ]
+  chatfilter:
+    aliases: [ cf ]
+  top:
+  trophy:
+  chat:
+  tpa:
+  tpdeny:
+    aliases: [ tpadeny ]
+  tpaccept:
+  heal:
+  feed:
+  msg:
+  reply:
+    aliases: [ r ]
+  rename:
+  fly:
+  hat:
+    aliases: [ hut ]
+  pvprank:
+    aliases: [ pvprang, pvpi ]
+  trophymarkt:
+    aliases: [ trophyshop ]
+  bounty:
+    aliases: [ kopfgeld ]
+  toggle:
+  kit:
+  gutschein:
+    aliases: [ gutscheine, voucher ]
+  stats:
+    aliases: [ money, tokens, coins ]
+  settings:
+    aliases: [ setting, einstellungen ]
+  vanish:
+    aliases: [ v ]
+  repair:
+  spawn:
+  casino:
+  clear:
+  tps:
+    aliases: [ monitor ]
+  teamchat:
+    aliases: [ tc ]
+  enchant:
+  allmoney:
+  invsee:
+  giveall:
+  user:
+  tp:
+    aliases: [ teleport ]
+  tpall:
+  reward:
+    aliases: [ rewards, belohnung, belohnungen ]
+  blacklist:
+  ping:
+  motd:
+  shop:
+  airdrop:
+  pay:
+    aliases: [ überweisen ]
+  lagerplatz:
+    aliases: [ enderchest, ec ]
+  rang:
+  config:
+  laby:
+  gamemode:
+    aliases: [ gm ]
+  menu:
+    aliases: [ m ]
+  trash:
+    aliases: [ müll, abfall ]
+  moneymaker:
